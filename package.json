@@ -17,13 +17,13 @@
     "YuiChan",
     "nexusnw"
   ],
-  "author": "Aflahser",
-  "developer": "@nexusNw",
+  "author": "Albin",
+  "developer": "@Albinbluz",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com//nexusNw/YuiChan/issues"
+    "url": "https://github.com//Albinbluz/YuiChan/issues"
   },
-  "homepage": "https://github.com//nexusNw/YuiChan#readme",
+  "homepage": "https://github.com//Albinbluz/YuiChan#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.3",
     "@lh2020/speedtest-net": "^2.1.1",
